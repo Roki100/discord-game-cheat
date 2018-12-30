@@ -1,4 +1,4 @@
 @echo off
-echo Started "yes" game with timestamp from 1970 XD
-title fake game started!
+echo Starting "yes" game with timestamp from 1970 XD
+title Fake game + Fake uptime By Roki Started!
 node yes.js
