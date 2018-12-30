@@ -10,3 +10,5 @@ client.once('ready', () => {
     client.setActivity(presence);
     console.log("Loaded!".rainbow)
 });
+
+// By Roki
