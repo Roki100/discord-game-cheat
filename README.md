@@ -6,7 +6,8 @@ It will set in game, but with cheated uptime XD
 ### Creating apps named like "Fortnite" will make you like in real fornite lol
 
 
-**To start, install node.js**
+**To start, install node.js, then do these steps:**
+---
 
 ***Windows:***
 
