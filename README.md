@@ -8,6 +8,6 @@ It will set in game, but with cheated uptime XD
 
 **To start, install node.js and start start.bat**
 
-**On linux do node yes.js**
+**On linux start start.sh or do bash start.sh in terminal**
 
 ## THIS WORKS AS RPC INSTANCE SO, IF YOU ARE RUNNING THIS YOUR GAME ACTIVITY WILL NOT SHOW ACTUALLY PLAYING GAMES TILL DISABLE!
