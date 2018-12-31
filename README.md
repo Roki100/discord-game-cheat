@@ -6,8 +6,14 @@ It will set in game, but with cheated uptime XD
 ### Creating apps named like "Fortnite" will make you like in real fornite lol
 
 
-**To start, install node.js and start start.bat**
+**To start, install node.js**
 
-**On linux start start.sh or do bash start.sh in terminal**
+***Windows:***
+
+**Start start.bat**
+
+***Linux:***
+
+**Start start.sh or do bash start.sh in terminal**
 
 ## THIS WORKS AS RPC INSTANCE SO, IF YOU ARE RUNNING THIS YOUR GAME ACTIVITY WILL NOT SHOW ACTUALLY PLAYING GAMES TILL DISABLE!
